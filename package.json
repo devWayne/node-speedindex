@@ -1,0 +1,21 @@
+{
+  "name": "speedindex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "珈文",
+  "license": "MIT",
+  "dependencies": {
+    "ali-oss": "^4.7.3",
+    "child-process-promise": "^2.2.0",
+    "fs-extra": "^1.0.0",
+    "node-cron": "^1.1.2",
+    "nodemailer": "^2.7.0",
+    "nodemailer-smtp-transport": "^2.7.2",
+    "promise.map": "0.0.2",
+    "pwmetrics": "^1.2.4"
+  }
+}

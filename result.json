@@ -1,0 +1,173 @@
+{
+  "https://chaoshi.m.tmall.com": {
+    "timings": [
+      {
+        "title": "First Contentful Paint",
+        "name": "ttfcp",
+        "value": 2304.624,
+        "color": "green"
+      },
+      {
+        "title": "First Meaningful Paint",
+        "name": "ttfmp",
+        "value": 2304.6,
+        "color": "green"
+      },
+      {
+        "title": "Perceptual Speed Index",
+        "name": "psi",
+        "value": 5725,
+        "color": "blue"
+      },
+      {
+        "title": "First Visual Change",
+        "name": "fv",
+        "value": 2334,
+        "color": "blue"
+      },
+      {
+        "title": "Visually Complete 100%",
+        "name": "vc",
+        "value": 8122,
+        "color": "blue"
+      },
+      {
+        "title": "Time to Interactive",
+        "name": "tti",
+        "value": 6632.6,
+        "color": "yellow"
+      },
+      {
+        "title": "Visually Complete 85%",
+        "name": "vc85",
+        "value": 6632.555,
+        "color": "blue"
+      }
+    ],
+    "timestamps": [
+      {
+        "title": "Navigation Start",
+        "name": "navstart",
+        "value": 250989271633
+      }
+    ],
+    "generatedTime": "2017-01-14T05:34:46.261Z",
+    "lighthouseVersion": "1.4.1",
+    "initialUrl": "https://chaoshi.m.tmall.com",
+    "url": "https://chaoshi.m.tmall.com/"
+  },
+  "https://chaoshi.m.tmall.com/fresh.htm": {
+    "timings": [
+      {
+        "title": "First Contentful Paint",
+        "name": "ttfcp",
+        "value": 1222.848,
+        "color": "green"
+      },
+      {
+        "title": "First Meaningful Paint",
+        "name": "ttfmp",
+        "value": 1222.9,
+        "color": "green"
+      },
+      {
+        "title": "Perceptual Speed Index",
+        "name": "psi",
+        "value": 2005,
+        "color": "blue"
+      },
+      {
+        "title": "First Visual Change",
+        "name": "fv",
+        "value": 1278,
+        "color": "blue"
+      },
+      {
+        "title": "Visually Complete 100%",
+        "name": "vc",
+        "value": 5805,
+        "color": "blue"
+      },
+      {
+        "title": "Time to Interactive",
+        "name": "tti",
+        "value": 3722.5,
+        "color": "yellow"
+      },
+      {
+        "title": "Visually Complete 85%",
+        "name": "vc85",
+        "value": 3722.534,
+        "color": "blue"
+      }
+    ],
+    "timestamps": [
+      {
+        "title": "Navigation Start",
+        "name": "navstart",
+        "value": 251012836353
+      }
+    ],
+    "generatedTime": "2017-01-14T05:35:03.069Z",
+    "lighthouseVersion": "1.4.1",
+    "initialUrl": "https://chaoshi.m.tmall.com/fresh.htm",
+    "url": "https://chaoshi.m.tmall.com/fresh.htm"
+  },
+  "https://chaoshi.m.tmall.com/liangfan.htm": {
+    "timings": [
+      {
+        "title": "First Contentful Paint",
+        "name": "ttfcp",
+        "value": 1373.185,
+        "color": "green"
+      },
+      {
+        "title": "First Meaningful Paint",
+        "name": "ttfmp",
+        "value": 2145.2,
+        "color": "green"
+      },
+      {
+        "title": "Perceptual Speed Index",
+        "name": "psi",
+        "value": 2117,
+        "color": "blue"
+      },
+      {
+        "title": "First Visual Change",
+        "name": "fv",
+        "value": 1406,
+        "color": "blue"
+      },
+      {
+        "title": "Visually Complete 100%",
+        "name": "vc",
+        "value": 3038,
+        "color": "blue"
+      },
+      {
+        "title": "Time to Interactive",
+        "name": "tti",
+        "value": 2562.6,
+        "color": "yellow"
+      },
+      {
+        "title": "Visually Complete 85%",
+        "name": "vc85",
+        "value": 2562.555,
+        "color": "blue"
+      }
+    ],
+    "timestamps": [
+      {
+        "title": "Navigation Start",
+        "name": "navstart",
+        "value": 251029610454
+      }
+    ],
+    "generatedTime": "2017-01-14T05:35:09.804Z",
+    "lighthouseVersion": "1.4.1",
+    "initialUrl": "https://chaoshi.m.tmall.com/liangfan.htm",
+    "url": "https://chaoshi.m.tmall.com/liangfan.htm"
+  }
+}
